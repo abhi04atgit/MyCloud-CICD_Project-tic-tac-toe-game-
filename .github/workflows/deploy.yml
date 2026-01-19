@@ -1,4 +1,4 @@
-name: Deploy Tic Tac Toe to S3
+name: Deploy Tic Tac Toe to S3 updated
 
 on:
   push:
