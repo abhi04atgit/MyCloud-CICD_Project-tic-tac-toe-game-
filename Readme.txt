@@ -14,7 +14,7 @@ Tech used:-
 
 How to use:-
     click on the below link:-
-    <Link of the AWS CF destribution>
+    https://tic-tac-toe-abhishek04.s3.ap-south-1.amazonaws.com/index.html
 
 Notes:-
     #Project might me Decomissioned later to makesure there is no 
